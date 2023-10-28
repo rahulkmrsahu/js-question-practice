@@ -1,19 +1,24 @@
-//WAP in JS 
+//WAP in JS to reveerse a string
 
 
 
-let str = "Rahul is good boy"
 
-let n = str.length // to find the length of the string
+// let str = "Rahul"
 
-//console.log(n)
+// let n = str.length // to find the length of the string
 
-let reverseStr = ""
+// //console.log(n)
 
-for (let i = n - 1; i >= 0; i--) { // Reverse for loop 
-    reverseStr += str[i];
-}
+// let reverseStr = ""
 
-console.log(reverseStr) // print the reverse outPut: luhar
+// for (let i = n - 1; i >= 0; i--) { // Reverse for loop 
+//     reverseStr += str[i];
+// }
+
+// console.log(reverseStr) // print the reverse outPut: luhar
+
+
+
+let str = "Rahul"
 
 
