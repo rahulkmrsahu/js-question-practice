@@ -15,3 +15,5 @@ for (let i = n - 1; i >= 0; i--) { // Reverse for loop
 }
 
 console.log(reverseStr) // print the reverse outPut: luhar
+
+
